@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628811980 source:c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho_de_implementacao02\main.c
+	"sllist.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1628286374 c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho_de_implementacao02\sllist.h
+
+1628286389 source:c:\users\windows 10\onedrive\documentos\codigos codeblocks\trabalho_de_implementacao02\sllist.c
+	"sllist.h"
+	<stdlib.h>
+
